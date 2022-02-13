@@ -1,0 +1,18 @@
+.navigation_bar {
+    color: rgba(0, 0, 0, 0.82);
+}
+
+.noLineDiv a {
+    text-decoration: none
+}
+
+.noLineDiv a:hover {
+    color: darkred;
+}
+
+#hot_bar span a:hover{
+    color: darkred;
+}
+#hot_bar span a{
+    color: darkred;
+}
